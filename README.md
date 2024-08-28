@@ -25,4 +25,5 @@ This example is simplified for clarity and doesn't include many features of a re
 - HTTPS support
 - Detailed logging and analytics
 - Automatic scaling of edge servers
+  
 
